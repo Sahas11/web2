@@ -8,7 +8,7 @@ h1, h2, h3{
 color:brown;
 }
 ul{
-list-style-image:url("tiny-coffee-cup.gif");	
+list-style-image:url("images/tiny-coffee-cup.gif");	
 }	
 a:link, a:visited{
 	text-decoration:none;
@@ -55,7 +55,7 @@ aside{
 	margin-left:20px;
 }
 header{
-	background-image:url("coffee-beans.jpg");
+	background-image:url("images/coffee-beans.jpg");
 	height:100px;
 	margin-bottom:70px;
 }
