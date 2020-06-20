@@ -1,2 +1,2 @@
 # dawebnic2
-Second website
+Second website I created with intermediate knowledge of HTML and CSS
